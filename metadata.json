@@ -1,0 +1,6 @@
+{
+  "name": "LetoVPN Checker",
+  "description": "Minimalist proxy config checker for VLESS, Trojan, VMess, and Shadowsocks. Tests speed and exports working configs to Downloads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
